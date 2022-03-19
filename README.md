@@ -11,12 +11,6 @@ If you are interested in testing your code as you go, you can use `tests.js` as 
 
 ---
 
-
-
-
-
-
----
 **Version 1.0.0**
 
 Hi there,
@@ -35,45 +29,45 @@ This project was created by Youssef Hassane.
 
 
 ## How you can utilize this project:
-#
-#      After installing the previous you should run/start the server. How you can do that?
-#
-#      Firstly, you must be in the right directory in the terminal and the you should run the "node server.js" command
-#      After running the command it will say that:
-#            The server is running.
-#            The server is running on the (127.0.0.1) using the 5050 port
-#            The full URL is:
-#                http://127.0.0.1:5050/
-#
-#      Secondly, open your browser and write "http://127.0.0.1:5050/".
-#      
-#      Thirdly, enter the zip code and your feeling.
-#
-#      Fourthly, click the the "Generate" button.
+
+      After installing the previous you should run/start the server. How you can do that?
+
+      Firstly, you must be in the right directory in the terminal and the you should run the "node server.js" command
+      After running the command it will say that:
+            The server is running.
+            The server is running on the (127.0.0.1) using the 5050 port
+            The full URL is:
+                http://127.0.0.1:5050/
+
+      Secondly, open your browser and write "http://127.0.0.1:5050/".
+      
+      Thirdly, enter the zip code and your feeling.
+
+      Fourthly, click the the "Generate" button.
 
 
 ## The methods and the Properties that I have utilized:
-#
-#       .get()
-#       .post()
-#       .listen()
-#       .querySelector()
-#       .createElement()
-#       .setAttribute()
-#       .appendChild()
-#       .value
-#       .addEventListener()
-#       .then()
-#       async/await
-#       fetch()
-#       .json()
-#       try/catch
-#       .innerHTML
-#       .stringify()
-#       Date()
-#       .getMonth()
-#       .getDate()
-#       .getFullYear()
+
+       .get()
+       .post()
+       .listen()
+       .querySelector()
+       .createElement()
+       .setAttribute()
+       .appendChild()
+       .value
+       .addEventListener()
+       .then()
+       async/await
+       fetch()
+       .json()
+       try/catch
+       .innerHTML
+       .stringify()
+       Date()
+       .getMonth()
+       .getDate()
+       .getFullYear()
 
 ---
 
