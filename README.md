@@ -19,13 +19,13 @@ This project was created by Youssef Hassane.
 
 ## In order to solve this project I needed to do some steps first, which are:
 
-      1. Installing the Node.js on my machine(computer) from the following URL https://nodejs.org/en/download/
+      1. Install the Node.js on my machine(computer) from the following URL https://nodejs.org/en/download/
  
-      2. Installing the Node package called Express, by running the "npm install express" command in the Terminal.
+      2. Install the Node package called Express, by running the "npm install express" command in the Terminal.
 
-      3. Installing the Node package called CORS, by running the "npm install cors" command in the Terminal.
+      3. Install the Node package called CORS, by running the "npm install cors" command in the Terminal.
 
-      4. Installing the Node package called CORS, by running the "npm install body-parser" command in the Terminal.
+      4. Install the Node package called CORS, by running the "npm install body-parser" command in the Terminal.
 
 
 ## How you can utilize this project:
