@@ -32,7 +32,7 @@ This project was created by Youssef Hassane.
 
       After installing the previous you should run/start the server. How you can do that?
 
-      Firstly, you must be in the right directory in the terminal and the you should run the "node server.js" command
+      Firstly, you must be in the right directory in the terminal and then you should run the "node server.js" command
       After running the command it will say that:
             The server is running.
             The server is running on the (127.0.0.1) using the 5050 port
